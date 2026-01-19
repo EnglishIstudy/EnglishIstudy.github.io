@@ -208,31 +208,6 @@ defaults:
     values:
       layout: page
       permalink: /:title/
-  - scope:
-      path: assets/img/favicons
-    values:
-      swcache: true
-  - scope:
-      path: assets/js/dist
-    values:
-      swcache: true
-
-sass:
-  style: compressed
-  sourcemap: never # In Jekyll 4.0 , SCSS source maps will generate improperly due to how Polyglot operates
-
-compress_html:
-  clippings: all
-  comments: all
-  endings: all
-  profile: false
-  blanklines: false
-  ignore:
-    envs: [development]
-
-include:
-  - rss.xml
-
 exclude: # https://github.com/untra/polyglot/issues/204 이슈 참고하여 수정.
   # - "*.gem"
   - jekyll-theme-chirpy.gemspec # - "*.gemspec"
@@ -243,6 +218,7 @@ exclude: # https://github.com/untra/polyglot/issues/204 이슈 참고하여 수�
   - rollup.config.js
   - eslint.config.js
   - "package*.json"
+  - assets/img/favicons/site.webmanifest
 
 jekyll-archives:
   enabled: [categories, tags]
