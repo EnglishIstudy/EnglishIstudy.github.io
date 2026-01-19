@@ -1,5 +1,9 @@
 # The layout text of site
 
+home:
+  title: "今日の英語"
+  tagline: "一日一文、英語が身につく"
+
 # ----- Commons label -----
 
 layout:

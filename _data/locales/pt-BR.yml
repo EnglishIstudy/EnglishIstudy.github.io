@@ -1,5 +1,9 @@
 # The layout text of site
 
+home:
+  title: "O inglês do dia"
+  tagline: "Uma frase por dia, o inglês se acumula."
+
 # ----- Commons label -----
 
 layout:

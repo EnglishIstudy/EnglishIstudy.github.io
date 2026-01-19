@@ -1,5 +1,9 @@
 # The layout text of site
 
+home:
+  title: "Englisch des Tages"
+  tagline: "Ein Satz pro Tag, Englisch sammelt sich an."
+
 # ----- Commons label -----
 
 layout:

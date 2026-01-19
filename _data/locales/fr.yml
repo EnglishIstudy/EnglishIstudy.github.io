@@ -1,5 +1,9 @@
 # The layout text of site
 
+home:
+  title: "L'anglais du jour"
+  tagline: "Une phrase par jour, l'anglais s'accumule."
+
 # ----- Commons label -----
 
 layout:

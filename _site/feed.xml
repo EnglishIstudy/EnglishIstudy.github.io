@@ -1,18 +1,18 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4001/</id>
-  <title>매일 기록하는 영어공부</title>
-  <subtitle>“매일 새롭게 배운 영어표현을 기록하기위한 블로그 입니다.”</subtitle>
-  <updated>2026-01-19T17:24:11+09:00</updated>
+  <id>https://englishistudy.github.io//</id>
+  <title>오늘의 영어</title>
+  <subtitle>“일상과 업무에서 바로 쓸 수 있는 영어 표현을 정리하는 나만의 영어 노트입니다.”</subtitle>
+  <updated>2026-01-19T18:31:15+09:00</updated>
   <author>
     <name>SW Kim</name>
-    <uri>http://localhost:4001/</uri>
+    <uri>https://englishistudy.github.io//</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4001/feed.xml"/>
-  <link rel="alternate" type="text/html" hreflang="ko" href="http://localhost:4001/" />
+  <link rel="self" type="application/atom+xml" href="https://englishistudy.github.io//feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ko" href="https://englishistudy.github.io//" />
   
-  <link rel="alternate" type="text/html" hreflang="en" href="http://localhost:4001/en/" />
+  <link rel="alternate" type="text/html" hreflang="en" href="https://englishistudy.github.io//en/" />
   
   <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
   <rights> © 2026 SW Kim </rights>
@@ -23,15 +23,15 @@
   
   <entry>
     <title xml:lang="ko">우리 삶의 이정표</title>
-    <link href="http://localhost:4001/posts/The-Signpost-of-Our-Lives/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/The-Signpost-of-Our-Lives/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/The-Signpost-of-Our-Lives/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/The-Signpost-of-Our-Lives/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2026-01-18T15:11:00+09:00</published>
   
     <updated>2026-01-18T15:11:00+09:00</updated>
   
-    <id>http://localhost:4001/posts/The-Signpost-of-Our-Lives/</id>
+    <id>https://englishistudy.github.io//posts/The-Signpost-of-Our-Lives/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -44,7 +44,7 @@
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/The-Signpost-of-Our-Lives/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/The-Signpost-of-Our-Lives/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -197,15 +197,15 @@ A10. 나의 개인적인 안위와 성공을 넘어, ‘가서 모든 민족을 
   
   <entry>
     <title xml:lang="ko">사랑이 남는다</title>
-    <link href="http://localhost:4001/posts/Love-Remains/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Love-Remains/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Love-Remains/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Love-Remains/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2026-01-11T14:01:00+09:00</published>
   
     <updated>2026-01-11T14:01:00+09:00</updated>
   
-    <id>http://localhost:4001/posts/Love-Remains/</id>
+    <id>https://englishistudy.github.io//posts/Love-Remains/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -218,7 +218,7 @@ A10. 나의 개인적인 안위와 성공을 넘어, ‘가서 모든 민족을 
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Love-Remains/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Love-Remains/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -351,15 +351,15 @@ A10. 아무리 대단한 일을 하더라도, 사랑이 없으면 우리에게 �
   
   <entry>
     <title xml:lang="ko">첫째를 첫째 되게</title>
-    <link href="http://localhost:4001/posts/Putting-First-Things-First/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Putting-First-Things-First/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Putting-First-Things-First/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Putting-First-Things-First/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2026-01-04T15:18:00+09:00</published>
   
     <updated>2026-01-04T15:18:00+09:00</updated>
   
-    <id>http://localhost:4001/posts/Putting-First-Things-First/</id>
+    <id>https://englishistudy.github.io//posts/Putting-First-Things-First/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -372,7 +372,7 @@ A10. 아무리 대단한 일을 하더라도, 사랑이 없으면 우리에게 �
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Putting-First-Things-First/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Putting-First-Things-First/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -514,15 +514,15 @@ A10. 하나님을 진정으로 사랑하는 사람은 그 마음의 중심이 �
   
   <entry>
     <title xml:lang="ko">실패로 끝날 수 없는 인생</title>
-    <link href="http://localhost:4001/posts/A-Life-That-Cannot-End-in-Failure/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/A-Life-That-Cannot-End-in-Failure/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/A-Life-That-Cannot-End-in-Failure/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/A-Life-That-Cannot-End-in-Failure/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-12-28T15:26:00+09:00</published>
   
     <updated>2025-12-28T15:26:00+09:00</updated>
   
-    <id>http://localhost:4001/posts/A-Life-That-Cannot-End-in-Failure/</id>
+    <id>https://englishistudy.github.io//posts/A-Life-That-Cannot-End-in-Failure/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -535,7 +535,7 @@ A10. 하나님을 진정으로 사랑하는 사람은 그 마음의 중심이 �
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/A-Life-That-Cannot-End-in-Failure/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/A-Life-That-Cannot-End-in-Failure/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -666,15 +666,15 @@ A10. 지난 해의 실패에 좌절하지 말고, 이미 승리하신 주님을 
   
   <entry>
     <title xml:lang="ko">기쁨의 이유되신 예수</title>
-    <link href="http://localhost:4001/posts/The-Reason-for-Our-Joy/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/The-Reason-for-Our-Joy/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/The-Reason-for-Our-Joy/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/The-Reason-for-Our-Joy/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-12-25T16:01:00+09:00</published>
   
     <updated>2025-12-25T16:46:39+09:00</updated>
   
-    <id>http://localhost:4001/posts/The-Reason-for-Our-Joy/</id>
+    <id>https://englishistudy.github.io//posts/The-Reason-for-Our-Joy/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -687,7 +687,7 @@ A10. 지난 해의 실패에 좌절하지 말고, 이미 승리하신 주님을 
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/The-Reason-for-Our-Joy/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/The-Reason-for-Our-Joy/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -818,15 +818,15 @@ A10. ‘하나님의 아들’이라 불리는 복을 받는다. 성탄의 기�
   
   <entry>
     <title xml:lang="ko">광야의 외치는 자의 소리</title>
-    <link href="http://localhost:4001/posts/A-Voice-Of-One-Crying/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/A-Voice-Of-One-Crying/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/A-Voice-Of-One-Crying/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/A-Voice-Of-One-Crying/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-12-21T15:12:00+09:00</published>
   
     <updated>2025-12-21T16:38:59+09:00</updated>
   
-    <id>http://localhost:4001/posts/A-Voice-Of-One-Crying/</id>
+    <id>https://englishistudy.github.io//posts/A-Voice-Of-One-Crying/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -839,7 +839,7 @@ A10. ‘하나님의 아들’이라 불리는 복을 받는다. 성탄의 기�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/A-Voice-Of-One-Crying/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/A-Voice-Of-One-Crying/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -979,15 +979,15 @@ A10. 내가 주인공이 되려는 마음을 내려놓고, 세상에 구원자�
   
   <entry>
     <title xml:lang="ko">성령 안에서 사는 삶</title>
-    <link href="http://localhost:4001/posts/Life-in-the-Spirit/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Life-in-the-Spirit/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Life-in-the-Spirit/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Life-in-the-Spirit/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-12-14T14:06:00+09:00</published>
   
     <updated>2025-12-14T16:30:51+09:00</updated>
   
-    <id>http://localhost:4001/posts/Life-in-the-Spirit/</id>
+    <id>https://englishistudy.github.io//posts/Life-in-the-Spirit/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -1000,7 +1000,7 @@ A10. 내가 주인공이 되려는 마음을 내려놓고, 세상에 구원자�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Life-in-the-Spirit/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Life-in-the-Spirit/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -1170,15 +1170,15 @@ A10. 내 안에 계신 성령님을 항상 의식하고 존중하며, 모든 일
   
   <entry>
     <title xml:lang="ko">돌아갈 집이 있는가?</title>
-    <link href="http://localhost:4001/posts/Do-you-have-a-home-to-return-to/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Do-you-have-a-home-to-return-to/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Do-you-have-a-home-to-return-to/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Do-you-have-a-home-to-return-to/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-12-07T14:06:00+09:00</published>
   
     <updated>2025-12-07T14:58:29+09:00</updated>
   
-    <id>http://localhost:4001/posts/Do-you-have-a-home-to-return-to/</id>
+    <id>https://englishistudy.github.io//posts/Do-you-have-a-home-to-return-to/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -1191,7 +1191,7 @@ A10. 내 안에 계신 성령님을 항상 의식하고 존중하며, 모든 일
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Do-you-have-a-home-to-return-to/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Do-you-have-a-home-to-return-to/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -1472,15 +1472,15 @@ A10. 내 안에 계신 성령님을 항상 의식하고 존중하며, 모든 일
   
   <entry>
     <title xml:lang="ko">참된 제자 감별법</title>
-    <link href="http://localhost:4001/posts/True-Mark-of-a-Disciple/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/True-Mark-of-a-Disciple/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/True-Mark-of-a-Disciple/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/True-Mark-of-a-Disciple/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-11-30T15:30:00+09:00</published>
   
     <updated>2025-11-30T16:22:22+09:00</updated>
   
-    <id>http://localhost:4001/posts/True-Mark-of-a-Disciple/</id>
+    <id>https://englishistudy.github.io//posts/True-Mark-of-a-Disciple/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -1493,7 +1493,7 @@ A10. 내 안에 계신 성령님을 항상 의식하고 존중하며, 모든 일
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/True-Mark-of-a-Disciple/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/True-Mark-of-a-Disciple/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -1700,15 +1700,15 @@ A5. 기술이나 문명이 아니라 사랑이다. 교회를 통해 드러나는
   
   <entry>
     <title xml:lang="ko">리더가 될 준비가 되었는가?</title>
-    <link href="http://localhost:4001/posts/Are-You-Ready-to-Be-a-Leader/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Are-You-Ready-to-Be-a-Leader/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Are-You-Ready-to-Be-a-Leader/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Are-You-Ready-to-Be-a-Leader/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-11-23T16:10:00+09:00</published>
   
     <updated>2025-11-24T03:30:33+09:00</updated>
   
-    <id>http://localhost:4001/posts/Are-You-Ready-to-Be-a-Leader/</id>
+    <id>https://englishistudy.github.io//posts/Are-You-Ready-to-Be-a-Leader/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -1721,7 +1721,7 @@ A5. 기술이나 문명이 아니라 사랑이다. 교회를 통해 드러나는
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Are-You-Ready-to-Be-a-Leader/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Are-You-Ready-to-Be-a-Leader/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -1918,15 +1918,15 @@ A5. 말씀을 아는 것만으로는 부족하며, 실제 행동으로 섬길 �
   
   <entry>
     <title xml:lang="ko">온전한 치유의 길, 감사</title>
-    <link href="http://localhost:4001/posts/The-Path-to-Complete-Healing-Gratitude/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/The-Path-to-Complete-Healing-Gratitude/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/The-Path-to-Complete-Healing-Gratitude/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/The-Path-to-Complete-Healing-Gratitude/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-11-16T11:40:00+09:00</published>
   
     <updated>2025-11-24T16:27:08+09:00</updated>
   
-    <id>http://localhost:4001/posts/The-Path-to-Complete-Healing-Gratitude/</id>
+    <id>https://englishistudy.github.io//posts/The-Path-to-Complete-Healing-Gratitude/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -1939,7 +1939,7 @@ A5. 말씀을 아는 것만으로는 부족하며, 실제 행동으로 섬길 �
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/The-Path-to-Complete-Healing-Gratitude/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/The-Path-to-Complete-Healing-Gratitude/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -2157,15 +2157,15 @@ A5. 우리의 죄와 영적 나병을 치유하시고, 감사 속에서 구원�
   
   <entry>
     <title xml:lang="ko">깨질수록 빛나는 보화, 예수님</title>
-    <link href="http://localhost:4001/posts/Treasure-That-Shines-Through-Brokenness/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Treasure-That-Shines-Through-Brokenness/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Treasure-That-Shines-Through-Brokenness/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Treasure-That-Shines-Through-Brokenness/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-11-09T15:52:00+09:00</published>
   
     <updated>2025-11-24T21:31:35+09:00</updated>
   
-    <id>http://localhost:4001/posts/Treasure-That-Shines-Through-Brokenness/</id>
+    <id>https://englishistudy.github.io//posts/Treasure-That-Shines-Through-Brokenness/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -2178,7 +2178,7 @@ A5. 우리의 죄와 영적 나병을 치유하시고, 감사 속에서 구원�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Treasure-That-Shines-Through-Brokenness/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Treasure-That-Shines-Through-Brokenness/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -2350,15 +2350,15 @@ A5. 자랑과 위장을 벗어버리고 예수 그리스도를 보배로 삼아 
   
   <entry>
     <title xml:lang="ko">낭비하는 그리스도인</title>
-    <link href="http://localhost:4001/posts/The-Wasteful-Christian/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/The-Wasteful-Christian/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/The-Wasteful-Christian/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/The-Wasteful-Christian/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-11-02T15:30:00+09:00</published>
   
     <updated>2025-11-24T22:01:32+09:00</updated>
   
-    <id>http://localhost:4001/posts/The-Wasteful-Christian/</id>
+    <id>https://englishistudy.github.io//posts/The-Wasteful-Christian/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -2371,7 +2371,7 @@ A5. 자랑과 위장을 벗어버리고 예수 그리스도를 보배로 삼아 
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/The-Wasteful-Christian/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/The-Wasteful-Christian/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -2638,15 +2638,15 @@ A5. 성공, 돈, 자녀, 자아… 하나님보다 앞세운 모든 것들이다
   
   <entry>
     <title xml:lang="ko">생명을 얻고, 더 풍성히</title>
-    <link href="http://localhost:4001/posts/Life-to-the-full/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Life-to-the-full/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Life-to-the-full/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Life-to-the-full/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-10-26T15:30:00+09:00</published>
   
     <updated>2025-11-25T14:17:22+09:00</updated>
   
-    <id>http://localhost:4001/posts/Life-to-the-full/</id>
+    <id>https://englishistudy.github.io//posts/Life-to-the-full/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -2659,7 +2659,7 @@ A5. 성공, 돈, 자녀, 자아… 하나님보다 앞세운 모든 것들이다
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Life-to-the-full/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Life-to-the-full/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -2940,15 +2940,15 @@ A5. 단순한 생존이 아니라 성령의 생명력, 영원한 생명, 기쁨�
   
   <entry>
     <title xml:lang="ko">그리스도 중심의 영성 형성</title>
-    <link href="http://localhost:4001/posts/Christ-Centered-Spiritual-Formation/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Christ-Centered-Spiritual-Formation/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Christ-Centered-Spiritual-Formation/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Christ-Centered-Spiritual-Formation/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-10-19T15:30:00+09:00</published>
   
     <updated>2025-11-25T22:17:39+09:00</updated>
   
-    <id>http://localhost:4001/posts/Christ-Centered-Spiritual-Formation/</id>
+    <id>https://englishistudy.github.io//posts/Christ-Centered-Spiritual-Formation/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -2961,7 +2961,7 @@ A5. 단순한 생존이 아니라 성령의 생명력, 영원한 생명, 기쁨�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Christ-Centered-Spiritual-Formation/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Christ-Centered-Spiritual-Formation/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -3173,15 +3173,15 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
   
   <entry>
     <title xml:lang="ko">눈뜸의 기적</title>
-    <link href="http://localhost:4001/posts/Miracle-Of-Sight/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Miracle-Of-Sight/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Miracle-Of-Sight/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Miracle-Of-Sight/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-10-12T15:30:00+09:00</published>
   
     <updated>2025-11-25T22:17:39+09:00</updated>
   
-    <id>http://localhost:4001/posts/Miracle-Of-Sight/</id>
+    <id>https://englishistudy.github.io//posts/Miracle-Of-Sight/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -3194,7 +3194,7 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Miracle-Of-Sight/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Miracle-Of-Sight/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -3412,15 +3412,15 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
   
   <entry>
     <title xml:lang="ko">나는 참된 자유인인가?</title>
-    <link href="http://localhost:4001/posts/Am-I-Truly-Free/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Am-I-Truly-Free/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Am-I-Truly-Free/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Am-I-Truly-Free/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-10-05T15:30:00+09:00</published>
   
     <updated>2025-11-26T21:08:31+09:00</updated>
   
-    <id>http://localhost:4001/posts/Am-I-Truly-Free/</id>
+    <id>https://englishistudy.github.io//posts/Am-I-Truly-Free/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -3433,7 +3433,7 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Am-I-Truly-Free/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Am-I-Truly-Free/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -3619,15 +3619,15 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
   
   <entry>
     <title xml:lang="ko">영원한 모래성은 없다</title>
-    <link href="http://localhost:4001/posts/No-sandcastle-lasts-forever/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/No-sandcastle-lasts-forever/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/No-sandcastle-lasts-forever/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/No-sandcastle-lasts-forever/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-09-28T14:30:00+09:00</published>
   
     <updated>2025-11-26T21:08:31+09:00</updated>
   
-    <id>http://localhost:4001/posts/No-sandcastle-lasts-forever/</id>
+    <id>https://englishistudy.github.io//posts/No-sandcastle-lasts-forever/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -3640,7 +3640,7 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/No-sandcastle-lasts-forever/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/No-sandcastle-lasts-forever/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -3867,15 +3867,15 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
   
   <entry>
     <title xml:lang="ko">열심보다 연결이다</title>
-    <link href="http://localhost:4001/posts/Connection-Over-Zeal/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Connection-Over-Zeal/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Connection-Over-Zeal/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Connection-Over-Zeal/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-09-21T16:09:00+09:00</published>
   
     <updated>2025-11-26T21:08:31+09:00</updated>
   
-    <id>http://localhost:4001/posts/Connection-Over-Zeal/</id>
+    <id>https://englishistudy.github.io//posts/Connection-Over-Zeal/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -3888,7 +3888,7 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Connection-Over-Zeal/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Connection-Over-Zeal/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[
@@ -4065,15 +4065,15 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
   
   <entry>
     <title xml:lang="ko">어찌하여 불안하여 하는가?</title>
-    <link href="http://localhost:4001/posts/Why-Are-You-Anxious/" rel="alternate" type="text/html" hreflang="ko" />
+    <link href="https://englishistudy.github.io//posts/Why-Are-You-Anxious/" rel="alternate" type="text/html" hreflang="ko" />
     
-    <link href="http://localhost:4001/en/posts/Why-Are-You-Anxious/" rel="alternate" type="text/html" hreflang="en" />
+    <link href="https://englishistudy.github.io//en/posts/Why-Are-You-Anxious/" rel="alternate" type="text/html" hreflang="en" />
     
     <published>2025-09-14T16:00:00+09:00</published>
   
     <updated>2025-11-28T00:13:02+09:00</updated>
   
-    <id>http://localhost:4001/posts/Why-Are-You-Anxious/</id>
+    <id>https://englishistudy.github.io//posts/Why-Are-You-Anxious/</id>
     <author>
       <name>SW Kim</name>
     </author>
@@ -4086,7 +4086,7 @@ A5. 그분이 우리의 죄를 100% 담당하셨고, 우리를 하나님의 의�
 
     <summary xml:lang="ko"><!-- _includes/post‐description.html -->
 </summary>
-    <content type="html" xml:lang="ko" src="http://localhost:4001/posts/Why-Are-You-Anxious/">
+    <content type="html" xml:lang="ko" src="https://englishistudy.github.io//posts/Why-Are-You-Anxious/">
     <!-- _includes/post‐description.html -->
 
     <![CDATA[

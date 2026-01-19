@@ -1,5 +1,9 @@
 # The layout text of site
 
+home:
+  title: "今日英語"
+  tagline: "每日一句，英語累積"
+
 # ----- Commons label -----
 
 layout:
