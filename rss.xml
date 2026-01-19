@@ -24,7 +24,8 @@ permalink: /rss.xml
 
 {% assign has_en = false %}
 {% for f in site.static_files %}
-  {% if f.path == '/assets/audio/' | append: en_file %}
+  {% assign audio_path = '/assets/audio/' | append: en_file %}
+  {% if f.path == audio_path %}
     {% assign has_en = true %}
   {% endif %}
 {% endfor %}
