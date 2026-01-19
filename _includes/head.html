@@ -79,11 +79,7 @@
   {% endunless %}
 
   <!-- Theme style -->
-  {% if jekyll.environment == 'production' %}
-    <link rel="stylesheet" href="{{ '/assets/css/jekyll-theme-chirpy-prod.css' | relative_url }}">
-  {% else %}
-    <link rel="stylesheet" href="{{ '/assets/css/jekyll-theme-chirpy-dev.css' | relative_url }}">
-  {% endif %}
+  <link rel="stylesheet" href="{{ '/assets/css/:THEME.css' | replace: ':THEME', site.theme | relative_url }}">
 
   <!-- Web Font -->
   <link rel="stylesheet" href="{{ site.data.origin[type].webfonts | relative_url }}">

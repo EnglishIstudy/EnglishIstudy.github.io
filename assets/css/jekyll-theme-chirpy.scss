@@ -1,7 +1,12 @@
---- 
+---
 ---
 
+/* prettier-ignore */
+@use "main{%- if jekyll.environment == 'production' -%}.bundle{%- endif -%}";
+@use 'post-grid';
+
 /* append your custom style below */
+
 :root {
   --bs-success:#198754;
   --bs-danger:#dc3545;
