@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://localhost:4001/</id>
-  <title>매주 기록하는 설교 말씀</title>
-  <subtitle>“매주 예배에서 들은 설교 말씀을 기록하고 묵상하며, 내 삶 속에서 하나님을 더 가까이 경험하기 위한 신앙 여정의 기록입니다.”</subtitle>
-  <updated>2026-01-18T15:39:48+09:00</updated>
+  <title>매일 기록하는 영어공부</title>
+  <subtitle>“매일 새롭게 배운 영어표현을 기록하기위한 블로그 입니다.”</subtitle>
+  <updated>2026-01-19T16:10:17+09:00</updated>
   <author>
     <name>SW Kim</name>
     <uri>http://localhost:4001/</uri>
