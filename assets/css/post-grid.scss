@@ -1,0 +1,82 @@
+#post-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Default to 3 columns */
+  gap: 1.5rem;
+}
+
+/* For tablets and smaller laptops */
+@media (max-width: 992px) {
+  #post-list {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+/* For mobile phones */
+@media (max-width: 768px) {
+  #post-list {
+    grid-template-columns: 1fr;
+  }
+}
+
+#post-list .card-wrapper {
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+  border: 1px solid var(--bs-border-color);
+  background-color: var(--card-bg);
+  box-shadow: var(--card-shadow);
+}
+
+#post-list .card-wrapper:hover {
+  box-shadow: var(--card-shadow-hover);
+}
+
+#post-list .post-preview {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  text-decoration: none;
+  background-color: var(--card-bg);
+}
+
+.post-image-wrapper {
+  overflow: hidden;
+  height: 60%;
+}
+
+#post-list .post-preview img {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+#post-list .card-wrapper:hover .post-preview img {
+  transform: scale(1.2);
+}
+
+#post-list .post-preview .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start; /* Changed from center */
+  height: auto; /* Allow to grow with content */
+  padding: 1rem;
+}
+
+#post-list .post-preview .card-title {
+  font-size: 1rem;
+  line-height: 1.4; /* Set a consistent line-height */
+  height: 2.8em; /* 1.4em * 2 lines */
+  overflow: hidden; /* Hide titles longer than 2 lines */
+  color: var(--text-color);
+  margin: 0;
+}
+
+/* Hide metadata, but show description */
+#post-list .post-meta {
+  display: none;
+}
+#post-list .card-text {
+  display: block; /* Make description visible */
+}
