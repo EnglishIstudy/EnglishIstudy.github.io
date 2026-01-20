@@ -3620,6 +3620,7 @@ header h1 + .post-meta {
 
 #post-list .card-text {
   display: block; /* Make description visible */
+  font-size: 0.5em;
 }
 
 /* append your custom style below */
